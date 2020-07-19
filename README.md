@@ -1,3 +1,5 @@
+![Rust](https://github.com/elielnfinic/iworth/workflows/Rust/badge.svg)
+
 # Reactix
 React and Actix Rust application generator
 
