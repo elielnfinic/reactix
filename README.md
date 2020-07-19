@@ -9,4 +9,6 @@ Contribute and leave me a star.
 
 I am available on Discord elielmathe#6699
 
+Follow me on Twitter [@elielmathe](https://twitter.com/elielmathe)
+
 Enjoy!

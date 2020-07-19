@@ -9,6 +9,7 @@ fn main() {
     println!("Starting reactix ...");
     let args : Vec<String> = env::args().collect();
 
+    //Reading the arguments
     for c in args.iter(){
         //println!("The arguments {} ",c);
     }
@@ -30,7 +31,7 @@ fn main() {
         Ok(_) => println!("React project generated successfully..."),
         Err(_) => println!("Error creating React project")
     };
-    
+
     //Start edition of the main file to add actix code
 
 }
